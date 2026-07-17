@@ -1,13 +1,32 @@
 <h1 align="center">Hi, I'm Hoàng Nguyên</h1>
-- I’m currently learning at University of Information Technology
+<h3 align="center">Information Systems Student at the University of Information Technology (UIT), Vietnam</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## About Me
+
+-  Information Systems student at UIT
+-  Currently learning Data Analyst, Backend Development and Artificial Intelligence
+-  Interested in building practical software and AI-powered applications
+-  Email: **hoangnguyen4126@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%c3%aan-%c4%91%e1%ba%b7ng-ho%c3%a0ng-02a490390/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%c3%aan-%c4%91%e1%ba%b7ng-ho%c3%a0ng-02a490390/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hoang.nguyen.113433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hoang.nguyen.113433" height="30" width="40" /></a>
-<a href="https://instagram.com/_hg.nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hg.nguyen" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/nguy%C3%AAn-%C4%91%E1%BA%B7ng-ho%C3%A0ng-02a490390/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
 
+<a href="https://www.facebook.com/hoang.nguyen.113433" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+</a>
+
+<a href="https://instagram.com/_hg.nguyen" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+</p>
 <!--
 **hoangnguyen412/hoangnguyen412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
